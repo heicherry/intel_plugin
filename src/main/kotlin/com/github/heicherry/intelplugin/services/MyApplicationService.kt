@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.heicherry.intelplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.heicherry.intelplugin.MyBundle
 
 class MyApplicationService {
 
